@@ -2,7 +2,7 @@
 
  [![Deshun's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Superhaoye)](https://github.com/Superhaoye)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Superhaoye&repo=miniProgram-tmp)](https://github.com/Superhaoye)
-![]（https://komarev.com/ghpvc/?username=Superhaoye）
+![](https://komarev.com/ghpvc/?username=Superhaoye)
 <!--
 **Superhaoye/Superhaoye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
