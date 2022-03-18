@@ -1,8 +1,8 @@
-# 👨🏻‍💻 [M4kura](https://github.com/Superhaoye)
+# 👨🏻‍💻 [M4kura](https://github.com/Superhaoye) ![](https://komarev.com/ghpvc/?username=Superhaoye)
 
- [![Deshun's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Superhaoye)](https://github.com/Superhaoye)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Superhaoye&repo=miniProgram-tmp)](https://github.com/Superhaoye)
-![](https://komarev.com/ghpvc/?username=Superhaoye)
+ [![Deshun's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Superhaoye)](https://github.com/ideshun)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Superhaoye&repo=miniProgram-tmp)](https://github.com/ideshun)
+
 
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 <div>
